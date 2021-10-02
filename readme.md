@@ -1,5 +1,6 @@
 # SSOO-tarea01
 # PEDRO PABLO LOPEZ MENA
+# pedro.lopez@alumnos.uv.cl
 
 el siguiente documento explica los procesos seguidos para resolver la tarea numero 1 de Sistemas Operativos. 
 
